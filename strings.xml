@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registro Estudiantil</string>
+    <string name="txt_nombre">Ingrese nombre completo</string>
+    <string name="txt_edad">Ingrese edad</string>
+    <string name="check_male">Masculino</string>
+    <string name="check_female">Femenino</string>
+    <string name="carrera">Seleccione una carrera</string>
+    <string name="semestre">Seleccione semestre</string>
+    <string name="check_mat">Matemáticas</string>
+    <string name="check_dev">Programación </string>
+    <string name="check_eng">Inglés </string>
+    <string name="check_est">Estadística </string>
+    <string name="check_beca">¿Tiene beca?</string>
+    <string name="txt_obsertvaciones">Observaciones adicionales</string>
+    <string name="btn_registrar">Registrar Estudiante</string>
+    <string name="btn_limpiar">Limpiar datos</string>
+    <string name="reg_estudiante">Registro del estudiante</string>
+</resources>
